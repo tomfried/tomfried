@@ -2,7 +2,7 @@ Hi, I'm Tom 👋. Welcome to my persoanl Github. I'm primarily a Software Engine
 
 **Software Engineering projects:**
 - [Beginner - django Tutorial from Scratch](https://github.com/tomfried/django-tutorial-from-scratch)
-- [Advanced - my personal django template]([https://github.com/tomfried/django-tutorial-from-scratch](https://github.com/tomfried/cookie-cutter-django))
+- [Advanced - my personal django template](https://github.com/tomfried/django-tutorial-from-scratch](https://github.com/tomfried/cookie-cutter-django))
 - Several private projects
 
 **Data Science/Automation:**
@@ -12,15 +12,10 @@ Hi, I'm Tom 👋. Welcome to my persoanl Github. I'm primarily a Software Engine
 **Front End Dev projects:**
 - [Event Planning Website](https://github.com/tomfried/Coronado-Cruising)
 - [Artist Portfolio & ECommerence Template](https://github.com/tomfried/Artist-Portfolio-and-eCommerce-Template)
-- [Youtube - Example Content Page Stats Feature/Extension](https://www.youtube.com/watch?v=CKn9vOSrLQs)
-
-**UI/UX/Design Videos (from 2018):**
-- [Youtube - Complex Multiple-Level Header Dropdown Replication](https://www.youtube.com/watch?v=BS6ypp5mc8c)
-- [Youtube - Responsive Contact Form](https://www.youtube.com/watch?v=574aEl322C4)
-- [Youtube - Converting PDF to responsive web content](https://www.youtube.com/watch?v=ORZCKzDgIIo)
-- [Youtube - Custom Search w/ Faceted Search Support](https://www.youtube.com/watch?v=y9jQIWaNoTM)
+- [UI/UX/Design Videos (from 2018)](https://youtu.be/574aEl322C4?si=ZRR8sqL3TiYmKX6j)
 
 **Video Game:**
 - [Celebrity Slenderman](https://github.com/tomfried/Celebrity-Slenderman-Game)
 - [Bernie Quest](https://github.com/tomfried/Bernie-Quest-Game)
+- [Youtube - Zombie Astroknight PreAlpha](https://www.youtube.com/watch?v=sSLhPR28KW4)
 - Couple other private projects.
