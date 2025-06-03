@@ -1,4 +1,4 @@
-Hi, I'm Tom 👋. Welcome to my personal Github. I'm primarily a Software Engineer but have dabbled.
+Hi, I'm Tom 👋. Welcome to my personal Github. I'm primarily a Software Engineer but try to dabble.
 
 **Software Engineering projects:**
 - [Beginner - django-python Tutorial from Scratch](https://github.com/tomfried/django-tutorial-from-scratch)
@@ -14,7 +14,7 @@ Hi, I'm Tom 👋. Welcome to my personal Github. I'm primarily a Software Engine
 - [Artist Portfolio & ECommerence Template](https://github.com/tomfried/Artist-Portfolio-and-eCommerce-Template)
 - [UI/UX/Design Videos (from 2018)](https://youtu.be/574aEl322C4?si=ZRR8sqL3TiYmKX6j)
 
-**Video Game:**
+**Video Games:**
 - [Celebrity Slenderman](https://github.com/tomfried/Celebrity-Slenderman-Game)
 - [Bernie Quest](https://github.com/tomfried/Bernie-Quest-Game)
 - [Youtube - Zombie Astroknight PreAlpha](https://www.youtube.com/watch?v=sSLhPR28KW4)
