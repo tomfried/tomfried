@@ -2,7 +2,7 @@ Hi, I'm Tom 👋. Welcome to my personal Github. I'm primarily a Software Engine
 
 **Software Engineering projects:**
 - [Beginner - django-python Tutorial from Scratch](https://github.com/tomfried/django-tutorial-from-scratch)
-- [Advanced - my personal django-python template](https://github.com/tomfried/cookie-cutter-django-with-auth))
+- [Advanced - my personal django-python template w/ auth option](https://github.com/tomfried/cookie-cutter-django-with-auth)
 - Several private projects using Django-Python, Python-Dash, Ruby on Rails, Java, and PHP.
 
 **Data Science/Automation:**
