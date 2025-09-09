@@ -11,6 +11,9 @@ Hi, I'm Tom 👋. Welcome to my personal Github. I'm primarily a Software Engine
 - Quite a few Google Collab Jupyter notebooks
 - Quite a few QA Automated Testsuites
 
+**Architecture:**
+- [AWS Security Best Practices (Guide)](https://github.com/tomfried/aws-security-best-practices)
+
 **Front End Dev projects:**
 - [Event Planning Website](https://github.com/tomfried/Coronado-Cruising)
 - [Artist Portfolio & ECommerence Template](https://github.com/tomfried/Artist-Portfolio-and-eCommerce-Template)
